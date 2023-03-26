@@ -25,4 +25,9 @@ button {
 
 .gallery {
   display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+li {
+  list-style-type: none;
 }
